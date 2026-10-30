@@ -1,7 +1,5 @@
 # Architectural Trade-Offs in Distributed Quantum Repeaters
 
-[[https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg]](https://doi.org/10.5281/zenodo.xxxxxxx)
-[[https://img.shields.io/badge/License-MIT-yellow.svg]](https://opensource.org/licenses/MIT)
 
 This repository contains the simulation code, analytical models, and paper manuscript for:
 > **Architectural Trade-Offs in Distributed Quantum Repeaters: Distillation Scheduling Under Memory Coherence Constraints**  
